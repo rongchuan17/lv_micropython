@@ -20,7 +20,7 @@
 [submodule "lib/lv_bindings"]
 	path = lib/lv_bindings
 	url = https://github.com/imliubo/lv_binding_micropython.git
-	branch = dev_esp32_s3 
+	 
 [submodule "lib/mbedtls"]
 	path = lib/mbedtls
 	url = https://github.com/ARMmbed/mbedtls.git
